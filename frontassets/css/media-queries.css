@@ -1,0 +1,200 @@
+/* ==========================================================================
+ Media Queries
+ ========================================================================== */
+
+/* ---------------------------------------------------------------------- */
+/*	Version 1024px
+ /* ---------------------------------------------------------------------- */
+@media handheld, only screen and (max-width: 1024px) {
+#videos .thumb {
+		float: none;
+		margin: 0 auto;
+		max-width: 178px;
+	}
+}
+
+@media handheld, only screen and (min-width: 950px) {
+.containers1{
+	padding: 0px 40px;
+}
+	
+}
+
+/* ---------------------------------------------------------------------- */
+/*	Mobile Version 767px
+ /* ---------------------------------------------------------------------- */
+
+@media handheld, only screen and (max-width: 767px) {
+	.dropdown-content{
+		left: 0;
+	}
+	.pl-pr-0{
+		/*padding-left: 15px;*/
+		margin-bottom: 10px;
+		padding-right: 15px;
+	}
+    .img_resps img{
+        height:124px;
+    }
+    .form-group {
+    margin-bottom: 11px;
+}
+    .modalimg{
+		height: 200px;
+		width:100%;
+	}
+	.navbar-nav > li > a {
+		margin-top: 2px;
+	}
+	.header_container{
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.res_head{
+		padding: 21px 0;
+	}
+	.about1{
+		padding-top: 20px;
+	}
+	.img_res img{
+		height: 240px!important;
+	}
+	.modal_dia{
+		margin-top: 20px;
+	}
+	.modal_body img{
+		height: 208px!important;
+	}
+	.heding_m{
+		font-size: 25px;
+	}
+	.heading4{
+		line-height: 1.5;
+		letter-spacing: normal;
+		word-spacing: normal;
+	}
+	.about:before{
+		width: 100%;
+	}
+	.iitians_center{
+		margin-left: 15%;
+	}
+	.main_sliders img{
+		height: 225px!important;
+	}
+	.job_opp{
+		font-size: 30px;
+		margin-top: 0;
+	}
+	
+	.contact-top{
+		display: none;
+	}
+	.f_logo{
+		width: 152px!important;
+	}
+	.para_media{
+		margin-bottom: 20px;
+	}
+	#suscribe,
+	#features,
+	#intro {
+	    text-align: center;
+	}
+	#pricing .item {
+		margin: 0 auto 20px;
+	}
+	#suscribe .img-responsive {
+		margin: 0 auto;
+	}
+	#videos .carousel {
+	    padding: 0 25px;
+	}
+		
+	.carousel-control span {
+   		left: -8px !important;
+    }
+    .carousel-control.right span {
+	    left: auto !important;
+	    right: 11px !important;
+	}
+	
+	#intro .img-intro {
+		margin: 0 auto;
+	}
+	
+	header .navbar-nav {
+		float: none;
+	}
+	#gallery .item .hover {
+
+	}
+
+	.navbar-nav {
+		padding: 5px 0 0 0;
+	}
+	.navbar-nav > li {
+		display: block;
+		float: none;
+		font-size: 15px;
+		width: 100%;
+		margin-bottom: 2px;
+	}
+
+	header .navbar-nav > li > a {
+		/*background: #dadada;*/
+		border-radius: 3px 3px 3px 3px;
+		font-size: 13.5px;
+		line-height: normal;s
+		margin: 0;
+		padding: 11px 25px;
+	}
+	header .navbar-nav {
+		float: none;
+		text-align: left;
+	}
+	header .navbar-nav > li > a {
+		/*text-align: center;*/
+	}
+	.navbar-collapse {
+		border-top: 2px solid #1e7273 !important;
+		margin-top: 5px;
+		background-color: #e7e4d3;
+	}
+	.btns-group {
+		margin-bottom: 25px;
+	}
+}
+
+/* ---------------------------------------------------------------------- */
+/*	Mobile Version 600px
+ /* ---------------------------------------------------------------------- */
+
+@media handheld, only screen and (max-width: 600px) {
+	#logo img {
+		max-width: 150px;
+		margin-top: 8px;
+		margin-left:15px;
+	}
+}
+
+/* ---------------------------------------------------------------------- */
+/*	Mobile Version 568px
+ /* ---------------------------------------------------------------------- */
+
+@media handheld, only screen and (max-width: 568px) {
+}
+
+/* ---------------------------------------------------------------------- */
+/*	Mobile Version 480px
+ /* ---------------------------------------------------------------------- */
+
+@media handheld, only screen and (max-width: 480px) {
+}
+
+/* ---------------------------------------------------------------------- */
+/*	Mobile Version 320px
+ /* ---------------------------------------------------------------------- */
+
+@media handheld, only screen and (max-width: 320px) {
+}

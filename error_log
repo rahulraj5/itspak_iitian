@@ -1,0 +1,16 @@
+[03-Jan-2020 12:25:53 UTC] PHP Fatal error:  Can't use method return value in write context in /home/fgjflprhflqn/public_html/application/controllers/Home.php on line 34
+[03-Jan-2020 12:26:49 UTC] PHP Fatal error:  Can't use method return value in write context in /home/fgjflprhflqn/public_html/application/controllers/Home.php on line 34
+[03-Jan-2020 12:27:22 UTC] PHP Fatal error:  Can't use method return value in write context in /home/fgjflprhflqn/public_html/application/controllers/Home.php on line 34
+[03-Jan-2020 12:27:57 UTC] PHP Fatal error:  Can't use method return value in write context in /home/fgjflprhflqn/public_html/application/controllers/Home.php on line 34
+[03-Jan-2020 12:28:03 UTC] PHP Fatal error:  Can't use method return value in write context in /home/fgjflprhflqn/public_html/application/controllers/Home.php on line 62
+[03-Jan-2020 12:28:07 UTC] PHP Fatal error:  Can't use method return value in write context in /home/fgjflprhflqn/public_html/application/controllers/Home.php on line 62
+[03-Jan-2020 12:28:09 UTC] PHP Fatal error:  Can't use method return value in write context in /home/fgjflprhflqn/public_html/application/controllers/Home.php on line 62
+[03-Jan-2020 12:28:11 UTC] PHP Fatal error:  Can't use method return value in write context in /home/fgjflprhflqn/public_html/application/controllers/Home.php on line 62
+[03-Jan-2020 12:28:19 UTC] PHP Fatal error:  Can't use method return value in write context in /home/fgjflprhflqn/public_html/application/controllers/Home.php on line 62
+[03-Jan-2020 12:28:23 UTC] PHP Fatal error:  Can't use method return value in write context in /home/fgjflprhflqn/public_html/application/controllers/Home.php on line 62
+[03-Jan-2020 12:29:30 UTC] PHP Fatal error:  Can't use method return value in write context in /home/fgjflprhflqn/public_html/application/controllers/Home.php on line 62
+[03-Jan-2020 12:29:49 UTC] PHP Fatal error:  Can't use method return value in write context in /home/fgjflprhflqn/public_html/application/controllers/Home.php on line 62
+[03-Jan-2020 12:30:14 UTC] PHP Fatal error:  Can't use method return value in write context in /home/fgjflprhflqn/public_html/application/controllers/Home.php on line 62
+[24-Feb-2020 11:13:59 UTC] PHP Fatal error:  Cannot redeclare Home::admissionopen() in /home/fgjflprhflqn/public_html/application/controllers/Home.php on line 149
+[24-Feb-2020 11:13:59 UTC] PHP Fatal error:  Cannot redeclare Home::admissionopen() in /home/fgjflprhflqn/public_html/application/controllers/Home.php on line 149
+[24-Feb-2020 11:13:59 UTC] PHP Fatal error:  Cannot redeclare Home::admissionopen() in /home/fgjflprhflqn/public_html/application/controllers/Home.php on line 149

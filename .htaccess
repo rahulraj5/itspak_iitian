@@ -1,0 +1,36 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^ index.php [L]
+
+</IfModule>
+
+
+
+<IfModule mod_expires.c>
+ExpiresActive on
+ExpiresByType image/jpg "access plus 1 month"
+ExpiresByType image/jpeg "access plus 1 month"
+ExpiresByType image/gif "access plus 1 month"
+ExpiresByType image/png "access plus 1 month"
+ExpiresByType text/javascript "access plus 1 month"
+ExpiresByType application/javascript "access plus 1 month"
+ExpiresByType text/css "access plus 1 month"
+</IfModule>
+
+Redirect /home/thankyou /thankyou
+Redirect /home/contact /contact
+Redirect /home/about /about
+Redirect /home/career /career
+Redirect /home/gallery /gallery
+Redirect /home/blog /blog
+Redirect /home/blogdetail /blogdetail
+Redirect /home/courses /courses
+Redirect /home/form /form
+Redirect /home/video /video
+Redirect /home/registration /registration
+Redirect /home/admission-form /admissionopen
+Redirect /home/iitjee /iitjee
+Redirect /home/neet /neet
+Redirect /home/admissionform /admission
